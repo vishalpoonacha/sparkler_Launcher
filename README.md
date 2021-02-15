@@ -1,1 +1,1 @@
-# -Sparkler-Launcher
+# Sparkler-Launcher
